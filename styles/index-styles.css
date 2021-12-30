@@ -34,6 +34,7 @@ body {
     overflow-x: hidden;
     background-image: url("../assets/img/Imágenes/Cover.png");
     background-size: cover;
+    background-position: center;
 }
 
 /* Header */

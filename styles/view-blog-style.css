@@ -332,4 +332,7 @@ body::-webkit-scrollbar-thumb {
     .footer__contact {
         flex-direction: column;
     }
+    .footer .footer__contact img {
+        width: 250px;
+    }
 }
